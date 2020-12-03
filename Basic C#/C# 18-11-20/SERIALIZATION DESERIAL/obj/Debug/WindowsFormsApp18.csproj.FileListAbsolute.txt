@@ -1,0 +1,20 @@
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csprojAssemblyReference.cache
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe.config
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.pdb
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.exe
+C:\Users\COMPUTER\source\repos\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.pdb
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\bin\Debug\WindowsFormsApp18.exe.config
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\bin\Debug\WindowsFormsApp18.exe
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\bin\Debug\WindowsFormsApp18.pdb
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.csprojAssemblyReference.cache
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.Form1.resources
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.exe
+D:\Bizruntime\18-11-2020\C#\SERIALIZATION DESERIAL\obj\Debug\WindowsFormsApp18.pdb

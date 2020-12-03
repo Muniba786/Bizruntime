@@ -1,0 +1,13 @@
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.exe
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.deps.json
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.json
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.runtimeconfig.dev.json
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.dll
+D:\codebiz\ConsoleApp24\ConsoleApp24\bin\Debug\netcoreapp3.1\ConsoleApp24.pdb
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csprojAssemblyReference.cache
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfoInputs.cache
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.AssemblyInfo.cs
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.dll
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.pdb
+D:\codebiz\ConsoleApp24\ConsoleApp24\obj\Debug\netcoreapp3.1\ConsoleApp24.genruntimeconfig.cache
