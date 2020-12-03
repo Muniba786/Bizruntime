@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myDIV {
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  overflow: scroll;
+}
+</style>
+</head>
+<body>
+
+<p>Try the scrollbar in div.</p>
+
+<div id="myDIV" onscroll="myFunction()"> Push yourself, because no one else is going to do it for you.“You're off to great places, today is your day. ...
+    “You always pass failure on the way. ...
+    “No one is perfect - that's why pencils have erasers.” ...
+    “Winning doesn't always mean being first. ...
+    “You're braver than you believe, and stronger than you seem, and smarter than you think.” ...
+    '</div>
+
+<script>
+function myFunction() {
+  document.getElementById("myDIV").style.color = "red";
+}
+</script>
+
+<p>A function is triggered when you scroll in div. The function sets the color of the text in div to red.</p>
+
+</body>
+</html>
